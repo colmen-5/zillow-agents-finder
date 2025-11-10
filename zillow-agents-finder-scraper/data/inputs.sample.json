@@ -1,0 +1,18 @@
+[
+  {
+    "type": "profile",
+    "profileUrl": "https://www.zillow.com/profile/ElonMusk",
+    "filters": {
+      "min_rating": 4.5
+    }
+  },
+  {
+    "type": "search",
+    "name": "Veronica Figueroa",
+    "location": "Orlando, FL",
+    "limit": 5,
+    "filters": {
+      "min_reviews": 10
+    }
+  }
+]
