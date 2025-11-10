@@ -1,0 +1,10 @@
+{
+  "base_url": "https://www.zillow.com",
+  "request_timeout": 10,
+  "max_retries": 3,
+  "retry_backoff_factor": 1,
+  "rate_limit_per_minute": 30,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0",
+  "log_level": "INFO",
+  "default_limit": 10
+}
