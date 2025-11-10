@@ -1,0 +1,24 @@
+[
+  {
+    "agentName": "Elon Musk",
+    "profileUrl": "https://www.zillow.com/profile/ElonMusk",
+    "agency": "Future Estates Realty",
+    "phoneNumber": "(555) 321-6789",
+    "reviews": 124,
+    "salesListings": 15,
+    "soldListings": 48,
+    "location": "Los Angeles, CA",
+    "rating": 4.9
+  },
+  {
+    "agentName": "Veronica Figueroa",
+    "profileUrl": "https://www.zillow.com/profile/VeronicaFigueroa",
+    "agency": "Figueroa Team Realty",
+    "phoneNumber": "(555) 987-6543",
+    "reviews": 95,
+    "salesListings": 22,
+    "soldListings": 61,
+    "location": "Orlando, FL",
+    "rating": 4.8
+  }
+]
